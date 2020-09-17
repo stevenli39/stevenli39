@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/stevenli39/static/css/main.94292a07.chunk.css",
-    "main.js": "/stevenli39/static/js/main.7bd71808.chunk.js",
-    "main.js.map": "/stevenli39/static/js/main.7bd71808.chunk.js.map",
+    "main.css": "/stevenli39/static/css/main.21944554.chunk.css",
+    "main.js": "/stevenli39/static/js/main.cb18364d.chunk.js",
+    "main.js.map": "/stevenli39/static/js/main.cb18364d.chunk.js.map",
     "runtime-main.js": "/stevenli39/static/js/runtime-main.bedcdc63.js",
     "runtime-main.js.map": "/stevenli39/static/js/runtime-main.bedcdc63.js.map",
-    "static/js/2.457692fb.chunk.js": "/stevenli39/static/js/2.457692fb.chunk.js",
-    "static/js/2.457692fb.chunk.js.map": "/stevenli39/static/js/2.457692fb.chunk.js.map",
+    "static/js/2.712ccb80.chunk.js": "/stevenli39/static/js/2.712ccb80.chunk.js",
+    "static/js/2.712ccb80.chunk.js.map": "/stevenli39/static/js/2.712ccb80.chunk.js.map",
     "index.html": "/stevenli39/index.html",
-    "precache-manifest.430b4097ded6752067f40dd4608a3e49.js": "/stevenli39/precache-manifest.430b4097ded6752067f40dd4608a3e49.js",
+    "precache-manifest.fe66be179fcfd399e5ce793d8e4a4069.js": "/stevenli39/precache-manifest.fe66be179fcfd399e5ce793d8e4a4069.js",
     "service-worker.js": "/stevenli39/service-worker.js",
-    "static/css/main.94292a07.chunk.css.map": "/stevenli39/static/css/main.94292a07.chunk.css.map",
-    "static/js/2.457692fb.chunk.js.LICENSE.txt": "/stevenli39/static/js/2.457692fb.chunk.js.LICENSE.txt",
-    "static/media/headshot.svg": "/stevenli39/static/media/headshot.4268a1eb.svg"
+    "static/css/main.21944554.chunk.css.map": "/stevenli39/static/css/main.21944554.chunk.css.map",
+    "static/js/2.712ccb80.chunk.js.LICENSE.txt": "/stevenli39/static/js/2.712ccb80.chunk.js.LICENSE.txt",
+    "static/media/3d-design.svg": "/stevenli39/static/media/3d-design.0ca68d71.svg",
+    "static/media/headshot.svg": "/stevenli39/static/media/headshot.4268a1eb.svg",
+    "static/media/result.svg": "/stevenli39/static/media/result.967c9dce.svg",
+    "static/media/robot.svg": "/stevenli39/static/media/robot.009b535e.svg",
+    "static/media/server.svg": "/stevenli39/static/media/server.8888274c.svg",
+    "static/media/setup.svg": "/stevenli39/static/media/setup.9cae16a2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bedcdc63.js",
-    "static/js/2.457692fb.chunk.js",
-    "static/css/main.94292a07.chunk.css",
-    "static/js/main.7bd71808.chunk.js"
+    "static/js/2.712ccb80.chunk.js",
+    "static/css/main.21944554.chunk.css",
+    "static/js/main.cb18364d.chunk.js"
   ]
 }
